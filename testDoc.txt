@@ -1,8 +1,4 @@
-これはいったい
-はじめての文章であるが
-よくわからないことばかりだ。
-masterでこの行を追加
-testブランチで修正
 aiueo
 kakikukeko
 sasisuseso
+aaaaabbbbb
